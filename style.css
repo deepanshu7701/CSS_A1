@@ -1,0 +1,28 @@
+h1{
+    color: rgba(255, 0, 0,0.8);
+}
+h2{
+    color: rgba(0, 255, 0, 0.9);
+}
+#yellow{
+    background-color: yellow;
+}
+#linethrough{
+    text-decoration: line-through;
+}
+#underline{
+    text-decoration: underline;
+}
+ul{
+    letter-spacing: 3px;
+    font-weight: lighter;
+}
+.maroon{
+    color: maroon;
+}
+#fontsize{
+    font-size: small;
+}
+#yellow a{
+    text-decoration: none;
+}
